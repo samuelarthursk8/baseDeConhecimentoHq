@@ -81,7 +81,7 @@ section button:hover {
 }
 
 .item-resultado {
-    background: #0D1117; /* Cor de fundo dos itens */
+    background: #121212; /* Cor de fundo dos itens */
     border-radius: 0.6rem; /* Borda arredondada */
     padding: 1rem; /* Espaçamento interno */
     margin-bottom: 1rem; /* Espaçamento abaixo dos itens */
