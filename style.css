@@ -73,13 +73,13 @@ section button:hover {
     background-color: #333;
     
 }
-/* Estiliza a caixa de resultados da pesquisa */
+
 .item-resultado:hover { 
     transition: all .4s;
     background-color: #8b0000a9; /* Muda a cor de fundo ao passar o mouse */
     box-shadow: 3px 1px 20px 3px rgba(0, 0, 0, 0.171); /* Adiciona uma sombra mais intensa */
 }
-/* Estiliza a caixa de resultados da pesquisa */
+
 .item-resultado {
     background: #0D1117; /* Cor de fundo dos itens */
     border-radius: 0.6rem; /* Borda arredondada */
